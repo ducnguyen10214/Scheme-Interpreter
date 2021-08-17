@@ -6,4 +6,4 @@
 ## Confidential
 This is a class project of COMPSCI 61A, which is a course offered at the University of California, Berkeley.
 
-Start - End: August 2021
+Started - Ended: August 2021
